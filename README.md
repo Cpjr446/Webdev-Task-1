@@ -1,7 +1,7 @@
 # Webdev-Task-1
 # Ricochet Rumble
 
-Ricochet Rumble is a turn-based, two-player strategy board game created by Arjun and his friend Vishrudh. The goal is to destroy your opponent's Titan by strategically moving your pieces and deflecting bullets through various Ricochet pieces. 
+Ricochet Rumble is a turn-based, two-player strategy board game. The goal is to destroy your opponent's Titan by strategically moving your pieces and deflecting bullets through various Ricochet pieces. 
 
 ## Game Logic
 
