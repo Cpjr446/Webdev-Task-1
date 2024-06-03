@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>8x8 Board Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="game-container">
+        <h2 id="turn">Red's Turn</h2>
+        <div id="board" class="board"></div>
+        <div id="controls">
+            <button id="pause">Pause</button>
+            <button id="resume">Resume</button>
+            <button id="reset">Reset</button>
+            <button id="undo">Undo</button>
+            <button id="redo">Redo</button>
+        </div>
+        <div id="status">
+            <div id="timer1" style="color: red;">Red's Timer: <span id="time1">60</span> seconds</div>
+            <div id="timer2" style="color: blue;">Blue's Timer: <span id="time2">60</span> seconds</div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
